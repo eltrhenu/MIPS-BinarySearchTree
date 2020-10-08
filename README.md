@@ -4,8 +4,8 @@
 	make sbrk syscal with 16 bytes for new node allocation<br />
 	then puts the value,left,right and parent adreess<br />
 	for a new node except value all will be 0<br />
-<br />
-## build:<br />
+
+## build: <br />
 	to loop in aray i initialize my array index 2 because i already created root outside the build function<br />
 	then if it dont come across -9999 value it will continue to go insert function<br />
 
